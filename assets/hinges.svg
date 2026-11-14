@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#e9e0d5"/><stop offset="1" stop-color="#d7c7b5"/></linearGradient><linearGradient id="metal" x2="1" y2="1"><stop stop-color="#f4f5f3"/><stop offset=".45" stop-color="#9da3a2"/><stop offset="1" stop-color="#626b6b"/></linearGradient><filter id="shadow"><feGaussianBlur stdDeviation="9"/></filter></defs>
+<rect width="600" height="420" rx="22" fill="url(#bg)"/><path d="M0 0h190v420H0z" fill="#bca58e" opacity=".45"/><path d="M190 0h410v420H190z" fill="#f2ece4" opacity=".6"/>
+<ellipse cx="310" cy="325" rx="175" ry="24" fill="#4e4034" opacity=".18" filter="url(#shadow)"/>
+<g transform="translate(130 95) rotate(-7 180 120)">
+<rect x="12" y="25" width="95" height="230" rx="10" fill="#a99077"/><rect x="25" y="40" width="68" height="200" rx="6" fill="#d9c8b5"/>
+<path d="M98 76h74q22 0 25 20l12 58q3 17-16 23l-37 13q-15 5-25-7l-31-36z" fill="url(#metal)" stroke="#707978" stroke-width="5"/>
+<path d="M174 96h120q18 0 21 18l8 38q3 16-13 22l-89 31q-17 6-28-9l-31-41z" fill="url(#metal)" stroke="#707978" stroke-width="5"/>
+<circle cx="138" cy="112" r="13" fill="#424b4c"/><circle cx="138" cy="112" r="5" fill="#c8cecb"/><circle cx="257" cy="127" r="13" fill="#424b4c"/><circle cx="257" cy="127" r="5" fill="#c8cecb"/>
+<circle cx="183" cy="179" r="9" fill="#525c5c"/><circle cx="183" cy="179" r="3.5" fill="#d9dedb"/>
+<path d="M108 86l-10-18 32-15 20 17M287 102l22-12 12 25-22 13" fill="none" stroke="#707978" stroke-width="10" stroke-linecap="round"/>
+</g></svg>

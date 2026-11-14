@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#e9dfd4"/><stop offset="1" stop-color="#cbb9a6"/></linearGradient><linearGradient id="metal" x2="1" y2="1"><stop stop-color="#f4f5f2"/><stop offset=".45" stop-color="#9ca4a1"/><stop offset="1" stop-color="#66706e"/></linearGradient></defs>
+<rect width="600" height="420" rx="22" fill="url(#bg)"/><ellipse cx="300" cy="320" rx="220" ry="24" fill="#5a4634" opacity=".18"/>
+<g transform="translate(100 90) rotate(-14 180 120)">
+<g fill="url(#metal)" stroke="#68716f" stroke-width="4">
+<rect x="20" y="60" width="220" height="20" rx="8"/><path d="M20 50l-18 20 18 20z"/><rect x="60" y="160" width="235" height="17" rx="8"/><path d="M60 151l-18 18 18 18z"/>
+<rect x="290" y="20" width="30" height="190" rx="8"/><path d="M280 20h50v20h-50z"/>
+<circle cx="380" cy="120" r="43"/><circle cx="380" cy="120" r="18" fill="#d7ddd9"/>
+</g>
+<g stroke="#5a6260" stroke-width="5"><path d="M65 60v20M95 60v20M125 60v20M155 60v20M185 60v20M215 60v20M105 160v17M145 160v17M185 160v17M225 160v17"/></g>
+</g></svg>
